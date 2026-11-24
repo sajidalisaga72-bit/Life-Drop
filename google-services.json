@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468695500599",
+    "project_id": "blood-donor-app-377da",
+    "storage_bucket": "blood-donor-app-377da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468695500599:android:8d52f1d443cf57fdf03cb2",
+        "android_client_info": {
+          "package_name": "com.lifedrop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4mMCTrfYA2XkN6ORcHBiUgTTgPm2eaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
